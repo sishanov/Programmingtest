@@ -1,0 +1,9 @@
+C:\Users\SiamakShamaee\Desktop\code\maxValue\maxValue\bin\Debug\maxValue.exe.config
+C:\Users\SiamakShamaee\Desktop\code\maxValue\maxValue\bin\Debug\maxValue.exe
+C:\Users\SiamakShamaee\Desktop\code\maxValue\maxValue\bin\Debug\maxValue.pdb
+C:\Users\SiamakShamaee\Desktop\code\maxValue\maxValue\obj\Debug\maxValue.csprojAssemblyReference.cache
+C:\Users\SiamakShamaee\Desktop\code\maxValue\maxValue\obj\Debug\maxValue.Properties.Resources.resources
+C:\Users\SiamakShamaee\Desktop\code\maxValue\maxValue\obj\Debug\maxValue.csproj.GenerateResource.cache
+C:\Users\SiamakShamaee\Desktop\code\maxValue\maxValue\obj\Debug\maxValue.csproj.CoreCompileInputs.cache
+C:\Users\SiamakShamaee\Desktop\code\maxValue\maxValue\obj\Debug\maxValue.exe
+C:\Users\SiamakShamaee\Desktop\code\maxValue\maxValue\obj\Debug\maxValue.pdb

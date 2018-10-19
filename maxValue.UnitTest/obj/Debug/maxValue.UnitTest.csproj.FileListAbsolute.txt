@@ -1,0 +1,17 @@
+C:\Users\SiamakShamaee\Desktop\code\maxValue\maxValue.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\SiamakShamaee\Desktop\code\maxValue\maxValue.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\SiamakShamaee\Desktop\code\maxValue\maxValue.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\SiamakShamaee\Desktop\code\maxValue\maxValue.UnitTest\bin\Debug\maxValue.UnitTest.dll
+C:\Users\SiamakShamaee\Desktop\code\maxValue\maxValue.UnitTest\bin\Debug\maxValue.UnitTest.pdb
+C:\Users\SiamakShamaee\Desktop\code\maxValue\maxValue.UnitTest\bin\Debug\maxValue.exe
+C:\Users\SiamakShamaee\Desktop\code\maxValue\maxValue.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\SiamakShamaee\Desktop\code\maxValue\maxValue.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\SiamakShamaee\Desktop\code\maxValue\maxValue.UnitTest\bin\Debug\maxValue.pdb
+C:\Users\SiamakShamaee\Desktop\code\maxValue\maxValue.UnitTest\bin\Debug\maxValue.exe.config
+C:\Users\SiamakShamaee\Desktop\code\maxValue\maxValue.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\SiamakShamaee\Desktop\code\maxValue\maxValue.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\SiamakShamaee\Desktop\code\maxValue\maxValue.UnitTest\obj\Debug\maxValue.UnitTest.csprojAssemblyReference.cache
+C:\Users\SiamakShamaee\Desktop\code\maxValue\maxValue.UnitTest\obj\Debug\maxValue.UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\SiamakShamaee\Desktop\code\maxValue\maxValue.UnitTest\obj\Debug\maxValue.UnitTest.csproj.CopyComplete
+C:\Users\SiamakShamaee\Desktop\code\maxValue\maxValue.UnitTest\obj\Debug\maxValue.UnitTest.dll
+C:\Users\SiamakShamaee\Desktop\code\maxValue\maxValue.UnitTest\obj\Debug\maxValue.UnitTest.pdb
